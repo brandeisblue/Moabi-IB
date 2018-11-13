@@ -509,7 +509,6 @@ public class InsightBodyFragment extends Fragment {
                                     chip.setCheckedIconVisible(false);
                                     chipGroup.addView(chip);
                                 }
-                                configureSummary(getString(R.string.))
                             }
                         }
                     });
